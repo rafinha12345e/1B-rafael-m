@@ -13,8 +13,8 @@ font-size:50px;
 
   section {
     background: #0628e9
-    padding-botton: 80px;
-    padding-top:80px
+    padding-bottom: 80px;
+    padding-top:80px;
     display: flex;
     justify-content: center;
     {
